@@ -5,5 +5,5 @@
 
 [Selenium e PyAutoGUI](relatórios/Selenium_e_PyAutoGUI.md)
 
-[Pygame]
+[Pygame](relatórios/pygame.md)
 ## Códigos
