@@ -6,4 +6,6 @@
 [Selenium e PyAutoGUI](relatórios/Selenium_e_PyAutoGUI.md)
 
 [Pygame](relatórios/pygame.md)
+
+[NumPy e Pandas]
 ## Códigos
