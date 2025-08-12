@@ -1,6 +1,7 @@
 # 📚 Bibliotecas em Python
 ### Todas as coleções de bibliotecas em python
 ## Relatórios
+
 OpenCv
 
 Selenium e PyAutoGUI
