@@ -9,6 +9,7 @@ Selenium e PyAutoGUI
 https://github.com/JohnWayne001/Relat-rio-das-Apresenta-es/blob/main/relat%C3%B3rios/Selenium%20e%20PyAutoGUI.md
 
 Pygame
+https://github.com/JohnWayne001/Relat-rio-das-Apresenta-es/blob/main/relat%C3%B3rios/pygame.md
 
 NumPy e Pandas
 
