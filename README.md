@@ -1,15 +1,15 @@
 # 📚 Bibliotecas em Python
 ### Todas as coleções de bibliotecas em python
 ## Relatórios
-[OpenCv](relatórios/OpenCv.md)
+OpenCv
 
-[Selenium e PyAutoGUI]([relatórios/Selenium_e_PyAutoGUI.md](https://github.com/JohnWayne001/Relat-rio-das-Apresenta-es/blob/main/relat%C3%B3rios/Selenium%20e%20PyAutoGUI.md))
+Selenium e PyAutoGUI
 
-[Pygame](relatórios/pygame.md)
+Pygame
 
-[NumPy e Pandas](relatórios/NumPy_e_Pandas.md)
+NumPy e Pandas
 
-[Matplotlib e Seaborn](relatórios/Matplotlib_e_Seaborn.md)
+Matplotlib e Seaborn
 
 ## Códigos
 [Código Tkinter](codigotkinter.py)
