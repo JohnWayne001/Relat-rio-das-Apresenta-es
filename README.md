@@ -15,6 +15,7 @@ NumPy e Pandas
 https://github.com/JohnWayne001/Relat-rio-das-Apresenta-es/blob/main/relat%C3%B3rios/NumPy%20e%20Pandas.md
 
 Matplotlib e Seaborn
+https://github.com/JohnWayne001/Relat-rio-das-Apresenta-es/blob/main/relat%C3%B3rios/Matplotlib%20e%20Seaborn.md
 
 ## Códigos
 [Código Tkinter](codigotkinter.py)
