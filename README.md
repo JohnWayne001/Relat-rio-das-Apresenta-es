@@ -12,4 +12,4 @@
 ## Códigos
 [Código Tkinter](codigotkinter.py)
 
-[Código PyQt]
+[Código PyQt](codigopyqt.py)
