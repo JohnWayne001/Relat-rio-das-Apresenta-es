@@ -7,5 +7,6 @@
 
 [Pygame](relatórios/pygame.md)
 
-[NumPy e Pandas]
+[NumPy e Pandas](relatórios/NumPy_e_Pandas.md)
+
 ## Códigos
