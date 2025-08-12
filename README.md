@@ -9,7 +9,7 @@
 
 [NumPy e Pandas](relatórios/NumPy_e_Pandas.md)
 
-[Matplotlib e Seaborn]
+[Matplotlib e Seaborn](relatórios/Matplotlib e Seaborn.md)
 
 ## Códigos
 [Código Tkinter](codigotkinter.py)
