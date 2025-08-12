@@ -1,5 +1,5 @@
 # Introdução
-O OpenCV (Open Source Computer Vision Library) é uma biblioteca de código aberto voltada para processamento de imagens, visão computacional e aprendizado de máquina. Foi desenvolvida originalmente pela Intel em 1999 e hoje é mantida por contribuintes de todo o mundo. É amplamente utilizada em pesquisa acadêmica, desenvolvimento industrial e aplicações comerciais.
+O **OpenCV** (Open Source Computer Vision Library) é uma biblioteca de código aberto voltada para processamento de imagens, visão computacional e aprendizado de máquina. Foi desenvolvida originalmente pela Intel em 1999 e hoje é mantida por contribuintes de todo o mundo. É amplamente utilizada em pesquisa acadêmica, desenvolvimento industrial e aplicações comerciais.
 # Funcionalidades Principais
 - Leitura, escrita e exibição de imagens e vídeos.
 
