@@ -4,4 +4,6 @@
 [OpenCv](relatórios/OpenCv.md)
 
 [Selenium e PyAutoGUI](relatórios/Selenium_e_PyAutoGUI.md)
+
+[Pygame]
 ## Códigos
