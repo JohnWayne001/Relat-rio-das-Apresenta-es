@@ -3,7 +3,7 @@
 ## Relatórios
 [OpenCv](relatórios/OpenCv.md)
 
-[Selenium e PyAutoGUI](relatórios/Selenium_e_PyAutoGUI.md)
+[Selenium e PyAutoGUI]([relatórios/Selenium_e_PyAutoGUI.md](https://github.com/JohnWayne001/Relat-rio-das-Apresenta-es/blob/main/relat%C3%B3rios/Selenium%20e%20PyAutoGUI.md))
 
 [Pygame](relatórios/pygame.md)
 
